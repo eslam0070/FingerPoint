@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Finger</string>
+    <string name="please_place_your_finger_on_the_scanner_to_verify_your_identity">Please place your Finger on the scanner to verify your identity</string>
+    <string name="you_have_successfully_logged_in_with_fingerpoint">You have successfully logged in with FingerPoint</string>
+</resources>
